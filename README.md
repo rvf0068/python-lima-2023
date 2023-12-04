@@ -14,3 +14,13 @@ Al finalizar el curso, los estudiantes realizaron diversos *proyectos*.
 
 - Agente viajero
 - Buscaminas
+
+## Ejemplos
+
+Una función que definimos fue `my_sum`, la cual se puede ejecutar como:
+
+```
+>>> my_sum(3, 2)
+5
+>>>
+``` 
